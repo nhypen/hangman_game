@@ -58,13 +58,13 @@ Program:
 2. Pobierz plik z kodem, np.:
 
 ```
-hangman.py
+hangman_game.py
 ```
 
 3. Uruchom w terminalu:
 
 ```
-python hangman.py
+python hangman_game.py
 ```
 
 ---
@@ -72,7 +72,7 @@ python hangman.py
 ## 📁 Struktura projektu
 
 ```
-hangman.py   # główny plik gry
+hangman_game.py   # główny plik gry
 README.md    # opis projektu
 ```
 
